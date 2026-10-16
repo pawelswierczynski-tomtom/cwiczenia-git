@@ -1,2 +1,3 @@
 to jest poczatkowa zawartosc pliku
 to dodalismy w kolejnym commicie
+ta linia powstala na main
